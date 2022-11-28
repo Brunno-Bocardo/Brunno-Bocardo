@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Brunno-Bocardo">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Brunno-Bocardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Bocardo&layout=compact&langs_count=6&theme=dracula"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Brunno-Bocardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Bocardo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
