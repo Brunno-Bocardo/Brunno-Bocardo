@@ -18,6 +18,7 @@
   
   ### Para entrar em contato ou saber mais sobre mim, seguem os meus contatos!!
 <div> 
-  <a href = "mailto:brunno.pb@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunno-bocardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brunno.pb@outlook.com"><img src="https://user-images.githubusercontent.com/122987929/213333721-63294d35-6371-49d8-b335-096f9c2754d8.JPG" width="40px"></a>
+  <a href="https://www.linkedin.com/in/brunno-bocardo/" target="_blank"><img src="https://user-images.githubusercontent.com/122987929/213333787-9a57e6be-58d8-482c-92bd-5677031d02ae.jpg" width="40px"></a>
+  <a href="https://api.whatsapp.com/send?phone=5515996187902"><img src="https://user-images.githubusercontent.com/122987929/213334174-ff06ef33-8141-4ebe-b41d-919d89231659.JPG" width="40px"></a>
 </div>
