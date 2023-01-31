@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou o Brunno!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Eu+sou+o+Brunno;Tenho+18+anos;Estudando+para+ser+Programador!!)](https://git.io/typing-svg)
 
 <br>
 
