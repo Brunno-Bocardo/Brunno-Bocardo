@@ -4,8 +4,8 @@
 
 <br>
 
-# 💫 Sobre Mim:
-🔭 Cursando ADS (1/6)<br>🤝 Desenvolvedor Front-End<br>🌱 Atualmente estou estudando REACT<br>⚡ Amante de doguinhos 
+## 💫 Sobre Mim:
+🔭 Cursando ADS (1/6)<br>🤝 Desenvolvedor Front-End<br>🌱 Atualmente estou estudando REACT<br>⚡ Nerdolinha
 
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunno-bocardo/) 
@@ -19,3 +19,5 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Brunno-Bocardo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Bocardo&layout=compact&langs_count=168&theme=nightowl"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E00B5B&height=120&section=footer"/>
