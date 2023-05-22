@@ -1,3 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E00B5B&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5B04B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Brunno+;I'm+18+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
 # 💫 Sobre Mim:
 🔭 Cursando ADS (1/6)<br>🤝 Desenvolvedor Front-End<br>🌱 Atualmente estou estudando REACT<br>⚡ Amante de doguinhos 
 
@@ -13,6 +19,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Brunno-Bocardo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Bocardo&layout=compact&langs_count=168&theme=nightowl"/>
 </div>
-
-## 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=Brunno-Bocardo&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
