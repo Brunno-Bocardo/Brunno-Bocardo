@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50257d&height=120&section=header"/>
 
 ## 💫 Sobre Mim:
-🔭 Cursando ADS (3/6)<br>
+🔭 Cursando ADS (4/6)<br>
 🤝 Desenvolvedor Full Stack<br>
 ⚡ Nerdolinha
 
