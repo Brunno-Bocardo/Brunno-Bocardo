@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50257d&height=120&section=header
-
-![pixel-sunrise](https://github.com/user-attachments/assets/10c74927-75c1-432f-8f91-9f850565b30c)
+![tumblr_13d2c753eed929097cc13bbb1d3e482c_fe67f6e7_1920](https://github.com/user-attachments/assets/743a3f9a-70c3-4854-861f-b3b7c5c54aeb)
 
 
 ## 💫 Sobre Mim:
