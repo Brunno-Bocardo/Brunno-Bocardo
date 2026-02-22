@@ -2,7 +2,7 @@
 
 
 ## 💫 Sobre Mim:
-🔭 Cursando ADS (6/6)<br>
+🔭 Formado em ADS<br>
 🤝 Desenvolvedor Full Stack<br>
 ⚡ Nerdolinha
 
