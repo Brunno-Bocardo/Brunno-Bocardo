@@ -36,23 +36,34 @@
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Codex](https://img.shields.io/badge/codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/ci%2Fcd-222222.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 🎨 Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-6DB33F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![GCP](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![IaC](https://img.shields.io/badge/infrastructure%20as%20code-5C2D91.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 🧠 Concepts
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-4B0082.svg?style=for-the-badge&logo=buffer&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6F00.svg?style=for-the-badge&logo=protocols.io&logoColor=white)
 
 ---
 
