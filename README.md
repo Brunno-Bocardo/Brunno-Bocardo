@@ -62,9 +62,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunno-Bocardo&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Brunno-Bocardo&theme=nightowl&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy"/>
 
 <br/><br/>
 
