@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=50257d&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Nerdolinha&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=50257d&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%&descAlignY=55&descSize=18)
 
 <img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="300" alt="Cat typing"/>
 
