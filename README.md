@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=50257d&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=130f22&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 </div>
 
@@ -80,6 +80,6 @@
 
 ### 💜 "Miracles only happen to those who never give up." — One Piece
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50257d&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=130f22&height=120&section=footer"/>
 
 </div>
