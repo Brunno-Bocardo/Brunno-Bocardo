@@ -78,10 +78,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunno-Bocardo&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Brunno-Bocardo&label=Profile%20views&color=9D4EDD&style=flat-square" alt="Profile views"/>
-
 </div>
 
 ---
