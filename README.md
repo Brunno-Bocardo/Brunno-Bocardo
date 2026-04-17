@@ -44,6 +44,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/ci%2Fcd-222222.svg?style=for-the-badge&logo=githubactions&logoColor=white)
