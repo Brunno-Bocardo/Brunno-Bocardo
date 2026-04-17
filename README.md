@@ -4,15 +4,15 @@
 
 </div>
 
-## 💫 About Me
+## 🪐 About Me
 
 <img align="right" src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat typing"/>
 
 🔭 Graduated in Systems Analysis and Development  
 🤝 Full Stack Developer — I build things for the web and mobile (and sometimes break them too)  
-🌱 Currently learning more about software architecture  
+🏔️ Currently learning more about software architecture  
 🎮 Off-keyboard: gamer, anime enthusiast, stargazer and gym beginner  
-☕ Powered by faith and curiosity  
+🚀 Powered by faith and curiosity  
 🌎 Fluent in Portuguese and English  
 📫 Reach me at **[obrunno.com.br](https://www.obrunno.com.br/)**  
 💬 Let's talk about code, tech or why Luffy will be the Pirate King
@@ -39,13 +39,6 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Odoo](https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)
-
-### 🧠 Concepts
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-4B0082.svg?style=for-the-badge&logo=buffer&logoColor=white)
-
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -53,6 +46,13 @@
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🎨 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Odoo](https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)
+
+### 🧠 Concepts
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-4B0082.svg?style=for-the-badge&logo=buffer&logoColor=white)
 
 ---
 
