@@ -1,8 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=50257d&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%&descAlignY=55&descSize=18)
-
-<img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="300" alt="Cat typing"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=50257d&height=200&section=header&text=Brunno%20Bocardo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 </div>
 
@@ -10,10 +8,27 @@
 
 ## 💫 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 🔭 Graduated in Systems Analysis and Development  
-🤝 Full Stack Developer  
-⚡ Nerdolinha  
-🚀 Always learning something new
+🤝 Full Stack Developer — I build things for the web and mobile (and sometimes break them too)  
+🌱 Currently learning more about software architecture  
+🎮 Off-keyboard: gamer, anime enthusiast, stargazer and gym beginner  
+☕ Powered by faith and curiosity  
+🌎 Fluent in Portuguese and English  
+📫 Reach me at **[obrunno.com.br](https://www.obrunno.com.br/)**  
+💬 Let's talk about code, tech or why Luffy will be the Pirate King
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat typing"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +76,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunno-Bocardo&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
-
 
 <br/><br/>
 
