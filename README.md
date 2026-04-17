@@ -8,9 +8,7 @@
 
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat typing"/>
 
 🔭 Graduated in Systems Analysis and Development  
 🤝 Full Stack Developer — I build things for the web and mobile (and sometimes break them too)  
@@ -21,14 +19,7 @@
 📫 Reach me at **[obrunno.com.br](https://www.obrunno.com.br/)**  
 💬 Let's talk about code, tech or why Luffy will be the Pirate King
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat typing"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
