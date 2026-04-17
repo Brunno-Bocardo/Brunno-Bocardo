@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat typing"/>
