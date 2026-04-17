@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### 💜 "Miracles only happen to those who never give up." — One Piece
+### "Miracles only happen to those who never give up." — One Piece
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=130f22&height=120&section=footer"/>
 
